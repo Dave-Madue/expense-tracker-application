@@ -28,3 +28,23 @@ Built with React.js, this app provides a simple interface to add, view, and mana
    ```bash
    git clone https://github.com/Dave-Madue/expense-tracker-application.git
    cd expense-tracker-application
+
+2.	Install dependencies:
+npm install
+
+3. Start the development server:
+npm start
+
+Future Improvements
+	•	Add authentication and user profiles
+	•	Connect to a live backend API
+	•	Add charts for expense analysis
+	•	Multi-currency support
+
+
+👤 Author
+
+Maduekwe King-David
+Software Engineer
+Lagos, Nigeria
+📧 davemadue@gmail.com
