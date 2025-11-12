@@ -12,5 +12,6 @@ export default (state, action) => {
       }
     default:
       return state;
+      //Delete and add transaction
   }
 }
