@@ -48,3 +48,5 @@ Maduekwe King-David
 Software Engineer
 Lagos, Nigeria
 📧 davemadue@gmail.com
+
+Contributor.
